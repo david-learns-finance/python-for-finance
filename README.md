@@ -11,7 +11,7 @@ pip install matplotlib
 ```
 
 ## Contents:
-1. Hello World (05-Mar-2026): Intro to essential libraries, charting, statistics, and Sharpe Ratio
+1. Hello World (08-Mar-2026): Intro to essential libraries, charting, statistics, and Sharpe Ratio
 2. TBC
 3. TBC
 4. TBC
