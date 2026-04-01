@@ -12,7 +12,7 @@ pip install matplotlib
 
 ## Contents:
 1. Hello World (08-Mar-2026): Intro to essential libraries, charting, statistics, and Sharpe Ratio
-2. Moving Averages (15-Mar-2026): Intro to moving averages, 20, 50, and 200 day MAs
+2. Moving Averages: TBD
 3. TBC
 4. TBC
 5. TBC
